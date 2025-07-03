@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hallo World! I'm Erika Nur Aini 👋
 
 <!--
 **Erika-Nuraini/Erika-Nuraini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently learning **GitHub**
+
+ ![Hallo](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWtqNWhveXJlcnl3YWtweWZxbWNkb2l0c2t2d3czY2ZpM2N2dGNmbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7OVCzw8yy9IgaLgW1A/giphy.gif)
