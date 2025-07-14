@@ -1,4 +1,4 @@
-## Hallo World! I'm Erika Nur Aini 👋
+## Hallo World! I'm Erika Nur Aini 👋✨
 
 <!--
 **Erika-Nuraini/Erika-Nuraini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
